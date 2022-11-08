@@ -1,2 +1,1 @@
-# Generate-username
-Created with CodeSandbox
+## Generate username from Codebyte
