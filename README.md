@@ -1,1 +1,1 @@
-## Generate username from Codebyte
+## Generate username using angular from Codebyte
